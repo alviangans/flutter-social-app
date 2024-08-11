@@ -1,17 +1,25 @@
-# socialmediabdg
+# Flutter Social App
 
-A new Flutter project.
+**Flutter Social App** adalah aplikasi mobile yang dibangun dengan Flutter untuk menyediakan platform sosial yang memungkinkan pengguna untuk terhubung, berbagi pembaruan, dan berinteraksi dengan teman. Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang mulus dan menarik.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- **Profil Pengguna**: Membuat dan mengelola profil pengguna dengan foto dan informasi pribadi.
+- **Beranda**: Menampilkan pembaruan dari teman dan konten terbaru.
+- **Pembaruan Status**: Mengirim dan melihat status atau pembaruan dari pengguna.
+- **Berinteraksi**: Menyukai, mengomentari, dan berbagi pembaruan.
+- **Notifikasi**: Mendapatkan pemberitahuan tentang aktivitas penting.
 
-A few resources to get you started if this is your first Flutter project:
+## Prasyarat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sebelum memulai, pastikan kamu telah menginstal [Flutter](https://flutter.dev/docs/get-started/install) dan memiliki [Dart SDK](https://dart.dev/get-dart) di sistem kamu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter-socialmediawargibandung-app" 
+## Instalasi
+
+Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi ini di lingkungan lokal kamu:
+
+   ```bash
+  git clone https://github.com/alviangans/flutter-social-app.git
+  cd flutter-social-app
+  flutter pub get
+  flutter run
